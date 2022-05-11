@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @etmoon
+- 👋 Hi, I’m @baetm
 - 👀 I’m interested in programming in data analysis (Python), automate scripting in GNU Linux (Bash) and software development.
-- 🌱 I’m currently learning C# (.Net), Java Script and SQL.
-- 💞️ I’m looking to collaborate like data analysis, software developer or admin
+- 🌱 I’m currently learning Linux command and bash scripting.
+- 💞️ I’m looking to collaborate like automation, data analysis and general programming 
 - 📫 How to reach me linkedin.com/in/bartosz-etmanski/
 
 <!---
