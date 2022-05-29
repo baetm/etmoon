@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baetm
 - 👀 I’m interested in programming in data analysis (Python), automate scripting in GNU Linux (Bash) and software development.
-- 🌱 I’m currently learning Linux command and bash scripting.
+- 🌱 I’m currently learning Perl and Python programming language.
 - 💞️ I’m looking to collaborate like automation, data analysis and general programming 
 - 📫 How to reach me linkedin.com/in/bartosz-etmanski/
 
